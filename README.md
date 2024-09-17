@@ -15,4 +15,4 @@ C# is a language. .NET is a framework for building applications on Windows. .NET
 
 Common Language Runtime (CLR) takes the Intermediate Language (IL) code and converts it to Native Code (Machine Code). This process is also referred to as Just-in-time Compilation (JIT).
 
-<img src="https://github.com/markbuckle/Csharp-Tutorial/blob/main/C%23-tutorial-img1.png" maxwidth=350>
+<img src="https://github.com/markbuckle/Csharp-Tutorial/blob/main/C%23-tutorial-img1.png" max-width=350>
